@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/favouritesPhotoApp/static/css/main.0bc8fbc4.css",
+    "main.js": "/favouritesPhotoApp/static/js/main.81d1c2e6.js",
+    "static/js/453.b12a1191.chunk.js": "/favouritesPhotoApp/static/js/453.b12a1191.chunk.js",
+    "index.html": "/favouritesPhotoApp/index.html",
+    "main.0bc8fbc4.css.map": "/favouritesPhotoApp/static/css/main.0bc8fbc4.css.map",
+    "main.81d1c2e6.js.map": "/favouritesPhotoApp/static/js/main.81d1c2e6.js.map",
+    "453.b12a1191.chunk.js.map": "/favouritesPhotoApp/static/js/453.b12a1191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc8fbc4.css",
+    "static/js/main.81d1c2e6.js"
+  ]
+}
