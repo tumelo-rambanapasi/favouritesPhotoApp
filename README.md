@@ -1,0 +1,2 @@
+# favouritesPhotoApp
+React practice
